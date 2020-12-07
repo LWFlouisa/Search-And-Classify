@@ -1,0 +1,19 @@
+<aiml version='1.0.1' encoding='UTF-8'>
+  <category>
+    <pattern>I want to talk about clog.</pattern>
+    <template>For clog, what do you want to discuss?</template>
+  </category>
+
+  <topic this_topic='clog'>
+    <category>
+      <pattern>What is a clog</pattern>
+      <template> Clog A type of footwear made in part or completely from wood.</template>
+    </category>
+
+    <category>
+      <pattern>What is the probability of clog?</pattern>
+      <template>The word clog with a label of clog has a probability of 0.5 percent.</template>
+    </category>
+  </topic>
+</aiml>
+  

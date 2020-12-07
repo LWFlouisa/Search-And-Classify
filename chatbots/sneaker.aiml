@@ -1,0 +1,19 @@
+<aiml version='1.0.1' encoding='UTF-8'>
+  <category>
+    <pattern>I want to talk about sneaker.</pattern>
+    <template>For sneaker, what do you want to discuss?</template>
+  </category>
+
+  <topic this_topic='sneaker'>
+    <category>
+      <pattern>What is a sneaker</pattern>
+      <template> Sneakers Sneakers are shoes primarily designed for sports or other forms of physical exercise, but...</template>
+    </category>
+
+    <category>
+      <pattern>What is the probability of sneaker?</pattern>
+      <template>The word sneaker with a label of sneaker has a probability of 0.5 percent.</template>
+    </category>
+  </topic>
+</aiml>
+  

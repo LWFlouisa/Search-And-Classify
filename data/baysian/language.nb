@@ -1,0 +1,4 @@
+o:NaiveBayes	:@features_count{:
+clogs}I"
+clogs:ETf1I"	word;T@	f0:sneaker}I"sneaker;T@	@
+@	@:@klass_count{;@	;	@	:@klasses[;;	:@db_filepathI"data/baysian/language.nb;T
